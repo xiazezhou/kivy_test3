@@ -1,1 +1,2 @@
-# kivy_test3
+# SAMPLE-KIVYMD-APP
+The sample kivy and kivymd app to apk conversion.
